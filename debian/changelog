@@ -1,3 +1,10 @@
+wayland (1.0.5-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Rebuild for wheezy-backports.
+  * Upload to wheezy-graphics-next
+
+ -- Alexey Bondarchuk <alexey.bondarchuk@aleax.me>  Sun, 28 Apr 2013 19:20:24 +0300
+
 wayland (1.0.5-1) UNRELEASED; urgency=low
 
   [ Robert Ancell ]
